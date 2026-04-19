@@ -50,7 +50,7 @@ git clone https://github.com/<your-username>/Microservices-Task.git
 
 cd Microservices-Task
 
-
+```
 
 ### 2. Build and run all services using Docker Compose:
 
